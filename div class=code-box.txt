@@ -1,0 +1,11 @@
+<div class="code-box">
+  <span>SKLEP123</span>
+  <button onclick="copyCode('SKLEP123')">Kopiuj kod</button>
+</div>
+
+<script>
+function copyCode(code) {
+  navigator.clipboard.writeText(code);
+  alert("Kod skopiowany: " + code);
+}
+</script>
