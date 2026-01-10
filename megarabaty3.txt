@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>MEGARABATY 🔥</title>
+<meta name="description" content="MEGARABATY – złap najlepsze kody rabatowe online i oszczędzaj na zakupach w sklepach internetowych!">
+<style>
+    body { font-family: Arial; background-color: #f9f9f9; margin:0; padding:0; }
+    header { background-color:#ff6f00; color:white; text-align:center; padding:20px; }
+    h1 { margin:0; font-size:2em; }
+    #codes, #cart { max-width: 800px; margin: 20px auto; padding: 0 10px; }
+    .code-box, .cart-item {
+        background-color: #fff;
+        border: 2px solid #ff6f00;
+        border-radius: 8px;
+        padding: 15px;
+        margin-bottom: 10px;
